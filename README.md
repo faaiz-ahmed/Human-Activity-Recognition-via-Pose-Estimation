@@ -78,7 +78,7 @@ Video Link:
 (Add image here)
 
 ### Confusion Matrix
-![Confusion Matrix](Graphs_Output/confusion_matrix.png)
+![Confusion Matrix](https://github.com/faaiz-ahmed/Human-Activity-Recognition-via-Pose-Estimation/blob/main/Graphs_Output/confusion_matrix.png?raw=true)
 
 ---
 
@@ -120,5 +120,4 @@ Assignment: Complex Computing Problem (CCP)
 ---
 
 ## 👨‍💻 Author
-
-Your Name Here
+Faaiz Ahmed
