@@ -50,7 +50,7 @@ Human-Activity-Recognition/
 Since GitHub does not support large video uploads directly, the demo video is provided through an external link.
 
 Video Link:
-[PASTE_YOUR_VIDEO_LINK_HERE](https://www.pexels.com/video/a-woman-doing-a-squat-exercise-7690495/)
+[DEMO VIDEO](https://www.pexels.com/video/a-woman-doing-a-squat-exercise-7690495/)
 
 ---
 
