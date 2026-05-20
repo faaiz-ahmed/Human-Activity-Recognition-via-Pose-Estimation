@@ -40,7 +40,6 @@ Human-Activity-Recognition/
 │   ├── angles-and-transition.png
 │   ├── confusion-matrix.png
 │   ├── joint-angles-raw-vs-smoothed.png
-│   ├── sample-skeleton-overlay.png
 ```
 
 ---
@@ -67,9 +66,6 @@ Video Link:
 ---
 
 ## 📊 Output Visualizations
-
-### Sample Skeleton Overlay
-(Add image here)
 
 ### Angles and Transitions
 ![Angles and Transitions](https://raw.githubusercontent.com/faaiz-ahmed/Human-Activity-Recognition-via-Pose-Estimation/main/Graphs_Output/angles_and_transitions.png)
