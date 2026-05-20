@@ -71,11 +71,14 @@ Video Link:
 ### Sample Skeleton Overlay
 (Add image here)
 
+### Angles and Transitions
+![Angles and Transitions](https://raw.githubusercontent.com/faaiz-ahmed/Human-Activity-Recognition-via-Pose-Estimation/main/Graphs_Output/angles_and_transitions.png)
+
 ### Joint Angles Raw vs Smoothed
-(Add image here)
+![Joint Angles Raw vs Smooth](https://raw.githubusercontent.com/faaiz-ahmed/Human-Activity-Recognition-via-Pose-Estimation/main/Graphs_Output/joint_angles_raw_vs_smooth.png)
 
 ### Activity Distribution
-(Add image here)
+![Activity Distribution](https://raw.githubusercontent.com/faaiz-ahmed/Human-Activity-Recognition-via-Pose-Estimation/main/Graphs_Output/activity_distribution.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](https://github.com/faaiz-ahmed/Human-Activity-Recognition-via-Pose-Estimation/blob/main/Graphs_Output/confusion_matrix.png?raw=true)
