@@ -99,7 +99,7 @@ git clone YOUR_GITHUB_REPO_LINK
 2. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 3. Open the notebook
