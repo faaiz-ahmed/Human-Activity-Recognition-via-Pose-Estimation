@@ -78,7 +78,7 @@ Video Link:
 (Add image here)
 
 ### Confusion Matrix
-(Add image here)
+![Confusion Matrix](Graphs_Output/confusion-matrix.png)
 
 ---
 
